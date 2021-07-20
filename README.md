@@ -1,5 +1,6 @@
 # AndroidChatApp
 Android chat application using Firebase
+
 Preview
 
 ![image](https://user-images.githubusercontent.com/38383227/126367899-ad57365f-2d0a-439b-83af-817bdfebafac.png)
